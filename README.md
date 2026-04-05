@@ -108,6 +108,8 @@ Hermes uses its own exec safety system. By default, `rm`, `dd`, `fdisk`, and sim
 
 PRs welcome! This was built as a community contribution to the [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) project.
 
+**View on GitHub:** https://github.com/ziyadasghar-GIT/hermes-telegram-approval-buttons
+
 ## License
 
 Same as [Hermes Agent](https://github.com/NousResearch/hermes-agent) — MIT
